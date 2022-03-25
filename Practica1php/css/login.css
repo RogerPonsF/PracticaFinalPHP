@@ -1,0 +1,32 @@
+body {
+    background-image: url("fondo.jpg");
+    background-position: center; /* Center the image /
+    background-repeat: no-repeat; / Do not repeat the image */
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    background-color: #17a2b8;
+
+  }
+  #login .container #login-row #login-column #login-box {
+    margin-top: 20px;
+    max-width: 600px;
+    height: 350px;
+    border: 1px solid #9C9C9C;
+    background-color: #EAEAEA;
+  }
+  #login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+  }
+  #login .container #login-row #login-column #login-box #login-form #register-link {
+    margin-top: -75px;
+  }
+  .cinetics{
+    font-size: 70px;
+    text-align: center; 
+    font-style: oblique;
+    color: aliceblue;
+  }
+  .error{
+    color: red;
+  }

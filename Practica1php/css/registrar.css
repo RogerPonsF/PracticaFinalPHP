@@ -1,0 +1,27 @@
+body {
+    background-image: url("../css/fondo.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    background-color: #17a2b8;
+    height: 100vh;
+  }
+  #signup .container #signup-row #signup-column #signup-box {
+    margin-top: 5px;
+    max-width: 600px;
+    height: 680px;
+    border: 1px solid #9C9C9C;
+    background-color: #EAEAEA;
+
+  }
+  #signup .container #signup-row #signup-column #signup-box #signup-form {
+    padding: 15px;
+  }
+  #signup .container #signup-row #signup-column #signup-box #signup-form #register-link {
+    margin-top: -5px;
+  }
+  .error{
+    color: red;
+  }
